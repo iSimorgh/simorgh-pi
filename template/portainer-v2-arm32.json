@@ -27,7 +27,7 @@
 			],
 			"image": "emby/embyserver_arm32v7:latest",
 			"logo": "https://raw.githubusercontent.com/novaspirit/pi-hosted/master/images/emby.png",
-			"name": Emby",
+			"name": "Emby",
 			"platform": "linux",
 			"ports": [
 				"8096:8096/tcp",
