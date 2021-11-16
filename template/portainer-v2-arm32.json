@@ -27,7 +27,7 @@
 		],
 		"image": "emby/embyserver_arm32v7:latest",
 		"logo": "https://raw.githubusercontent.com/iSimorgh/simorgh-pi/master/images/emby.png",
-		"name": "Emby",
+		"name": "emby",
 		"platform": "linux",
 		"ports": [
 			"8096:8096/tcp",
