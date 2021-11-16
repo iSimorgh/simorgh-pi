@@ -26,7 +26,7 @@
 			}
 		],
 		"image": "emby/embyserver_arm32v7:latest",
-		"logo": "https://raw.githubusercontent.com/novaspirit/pi-hosted/master/images/emby.png",
+		"logo": "https://raw.githubusercontent.com/iSimorgh/simorgh-pi/master/images/emby.png",
 		"name": "Emby",
 		"platform": "linux",
 		"ports": [
